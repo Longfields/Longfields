@@ -4,8 +4,8 @@
 Welcome to the SpiralProgramming Github account. You can view my projects, but this account is rebuilding at the moment. I plan to add more repositories in the future that showcase my skills and expertise in various programming languages. I am constantly working on new projects and updating existing ones, so make sure to check back often. Additionally, feel free to reach out to me with any questions or collaboration opportunities. Thank you for your interest and support!  
 <br/><br/>
 As a computer programming enthusiast, I am always eager to connect with like-minded individuals and share my knowledge and experience. Whether you are a fellow learner or an experienced professional, I would love to hear from you and exchange ideas. Let's explore the world of computer programming together! 
-<br/>
-
+<br/><br/>
+Please check back later or follow me to see my finished programs.
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/75341047?v=4">
  <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/75341047?v=4">
