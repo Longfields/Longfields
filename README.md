@@ -6,10 +6,4 @@ Welcome to the Longfields Github account. You can view my projects, but this acc
 As a computer programming enthusiast, I am always eager to connect with like-minded individuals and share my knowledge and experience. Whether you are a fellow learner or an experienced professional, I would love to hear from you and exchange ideas. Let's explore the world of computer programming together! 
 <br/><br/>
 Please check back later or follow me to see my finished programs.
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/75341047?v=4">
- <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/75341047?v=4">
- <img src="https://avatars.githubusercontent.com/u/75341047?v=4">
-</picture>
-
 <b>Follow me</b> to get notified when I complete projects.
