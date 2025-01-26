@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
-<h3 align="center">I'm working to revamp this whole profile, follow to get notified when it happens!</h3>
+<h3 align="center">🚀 I'm working to revamp this whole profile, follow to get notified when it happens! ⚡️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=0e75b6&style=flat" alt="longfields" /> </p>
 
